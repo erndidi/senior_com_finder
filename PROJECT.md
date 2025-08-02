@@ -107,3 +107,6 @@ Each result will include the following:
 - Ratings and comments(if available)
 
 Somewhere near the bottom of the ratings will be a statement of clear terms of service that prohibit false reviews.
+
+# Technology Stack
+ Let's use Flutter to create the UI. Will worry about the backend later. 
